@@ -8,7 +8,7 @@ description 파일과 example 파일을 참고하여 사용 가능합니다.
 - 봇마다 설정값과 설정 방식이 상이하여 표준화하기 어려운 특정 채널 경험치 부스트, 채팅 1건당 경험치 지급량 등은 파일에 포함하지 않습니다.
 
 # 이 파일 양식을 지원하는 봇
-자신이 운영하는 봇이 이 파일 양식을 지원한다면 Pull Request를 여시거나 Issue를 열어서 알려주시면 추가해드립니다.
+자신이 운영하는 봇이 이 파일 양식을 지원한다면 [이 이슈](https://github.com/garlicfood1234/discord-leveling-bot-json/issues/1)에서 알려주시면 이 문단에 등재해드립니다.
 
 ## 내보내기 및 가져오기 모두 지원
 - 마늘봇 ([도움말](https://asdfasdfqwer.notion.site/23f4a653ce01801aaa5df646d531aac4?source=copy_link), [초대 링크](https://discord.com/oauth2/authorize?client_id=1316579106749681664))
